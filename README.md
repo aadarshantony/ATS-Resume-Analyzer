@@ -11,6 +11,8 @@ These instructions cover the prerequisites and steps needed to run the applicati
 ### Prerequisites
 
 You must have the **Java Runtime Environment (JRE)** installed on your system.
+tika-app-3.2.3.jar is not provided with the source code. so make sure to download it.
+(Note: No need to download tika-app-3.2.3.jar if you are downloading the release zip file. it is included in it) 
 
 1.  **Check for Java:** Open your terminal or Command Prompt and run `java -version`.
 2.  If Java is not installed, please download and install the latest JRE or JDK.
